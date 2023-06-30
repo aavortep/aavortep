@@ -1,1 +1,1 @@
-Student of Software Engineering in BMSTU.
+Bachelor of Software Engineering.
